@@ -114,3 +114,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://sbx-2021-website-4c189.netlify.app'
