@@ -12,7 +12,7 @@ sections:
       is amongst the best. Month on Month renewals, Scalable Spaces, Crisp
       Serviced Back Agreements.
     actions:
-      - label: Learn More
+      - label: New Delhi
         url: /features
         style: primary
       - label: Mysore
