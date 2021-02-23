@@ -15,7 +15,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-      - label: lorem-ipsum
+      - label: Mysore
         url: lorem-ipsum
         style: primary
         has_icon: false
