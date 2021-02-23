@@ -6,9 +6,11 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: 'Work Spaces, Designed for Growth'
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Our CoWorking Spaces increase productivity, help you collaborate and
+      innovate. Focus on what you do the best, and we will make sure your office
+      is amongst the best. Month on Month renewals, Scalable Spaces, Crisp
+      Serviced Back Agreements.
     actions:
       - label: Learn More
         url: /features
